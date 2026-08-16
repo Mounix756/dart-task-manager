@@ -15,7 +15,7 @@ Application de gestion de tâches en ligne de commande, écrite en Dart pur (san
 ## Installation
 
 ```bash
-git clone <git remote add origin git@github.com:Mounix756/dart-task-manager.git>
+git clone <git@github.com:Mounix756/dart-task-manager.git>
 cd dart-task-manager
 dart pub get
 ```
